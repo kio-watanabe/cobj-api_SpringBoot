@@ -1,0 +1,22 @@
+{
+  "opensourcecobol4j_version": "1.0.22",
+  "program_id": "LOANSUB",
+  "procedure_division_using_parameters": [
+    {
+      "variable_name": "LK-LOAN",
+      "java_type": "int"
+    },
+    {
+      "variable_name": "LK-INTEREST-RATE",
+      "java_type": "double"
+    },
+    {
+      "variable_name": "LK-PERIODS",
+      "java_type": "int"
+    },
+    {
+      "variable_name": "LK-PAYMENT",
+      "java_type": "int"
+    }
+  ]
+}
